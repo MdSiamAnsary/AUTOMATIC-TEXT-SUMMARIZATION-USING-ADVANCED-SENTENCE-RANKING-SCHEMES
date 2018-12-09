@@ -2,10 +2,10 @@
 A Thesis for partial fulfillment of the requirements for the degree of Bachelor of Science in Computer Science and Engineering  
 
 #### By
-  - Md. Siam Ansary (siamansary.cse@gmail.com)
   - Naznin Ara (nazninmetu@gmail.com)
   - Sk. Tasbiha (sk.tasbiha@gmail.com)
   - Sarah Nuzhat Khan (sarahnuzhatkhan64@gmail.com)
+  - Md. Siam Ansary (siamansary.cse@gmail.com)
 
 ##### Institute 
 Ahsanullah University of Science and Technology, Dhaka, Bangladesh (http://www.aust.edu/)
