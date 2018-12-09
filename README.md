@@ -8,7 +8,7 @@ A Thesis for partial fulfillment of the requirements for the degree of Bachelor 
   - Sarah Nuzhat Khan (sarahnuzhatkhan64@gmail.com)
 
 ##### Institute 
-Ahsanullah University of Science and Technology, Dhaka, Bangladesh. 
+Ahsanullah University of Science and Technology, Dhaka, Bangladesh (http://www.aust.edu/)
 
 #### An extractive summarizer 
 #### Considered criteria 
